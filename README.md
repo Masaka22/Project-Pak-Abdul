@@ -19,95 +19,9 @@ Website sederhana untuk layanan joki game, top up, dan penjualan akun game.
 
 </div>
 
----
-
-# 📖 Tentang
-
-GameBoost Store adalah website yang dibuat menggunakan HTML, CSS, dan JavaScript.
-
-Website ini memiliki tampilan modern, responsif, dan mudah digunakan.
-
----
-
-# ✨ Fitur
-
-- 🎮 Jasa Joki Game
-- 💎 Top Up Diamond
-- 🛒 Marketplace Akun
-- 📱 Responsive Design
-- 🌙 Dark Mode
-- ⚡ Fast Loading
-
----
-
-# 📸 Screenshot
-
-<img src="https://placehold.co/1000x500/111827/FFFFFF?text=Website+Preview">
-
----
-
-# 🛠 Teknologi
-
-| Teknologi | Digunakan |
-|-----------|-----------|
-| HTML5 | ✅ |
-| CSS3 | ✅ |
-| JavaScript | ✅ |
-| GitHub Pages | ✅ |
-
----
-
-# 🚀 Cara Menjalankan
-
-Clone repository
-
-```bash
-git clone https://github.com/username/repository.git
-```
-
-Masuk folder
-
-```bash
-cd repository
-```
-
-Buka file
-
-```text
-index.html
-```
-
----
-
-# 📂 Struktur Project
-
-```text
-📁 GameBoost-Store
- ├── index.html
- ├── style.css
- ├── script.js
- ├── assets/
- │   ├── logo.png
- │   ├── banner.png
- │   └── preview.png
- └── README.md
-```
-
----
-
 # 👨‍💻 Developer
 
-**Nama Kamu**
+**Anugrah**
 
 GitHub:
-https://github.com/username
-
----
-
-<div align="center">
-
-### ⭐ Jangan lupa kasih Star kalau project ini bermanfaat!
-
-Made with ❤️ by Nama Kamu
-
-</div>
+https://github.com/Masaka22
