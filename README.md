@@ -7,9 +7,9 @@ Penjelasan singkat 1-2 kalimat mengenai apa yang dilakukan proyek ini dan masala
 
 ## ✨ Fitur Utama
 
-* **Fitur 1**: Deskripsi singkat fungsi utama.
-* **Fitur 2**: Keunggulan atau integrasi yang ada.
-* **Fitur 3**: Kemampuan otomatisasi atau otomasi lainnya.
+> * **Fitur 1**: Deskripsi singkat fungsi utama.
+> * **Fitur 2**: Keunggulan atau integrasi yang ada.
+> * **Fitur 3**: Kemampuan otomatisasi atau otomasi lainnya.
 
 ## 🛠️ Teknologi yang Digunakan
 
