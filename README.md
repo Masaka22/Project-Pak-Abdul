@@ -13,22 +13,22 @@ Pak Abdul The Best.
 
 ## 🛠️ Teknologi yang Digunakan
 
->* **Bahasa Pemrograman**: Node.js / Python / Go
->* **Framework**: React / FastAPI / Express
->* **Database**: PostgreSQL / MongoDB
+>* **Bahasa Pemrograman**: TEST
+>* **Framework**: TEST
+>* **Database**: TEST
 
 ## ⚙️ Cara Instalasi & Menjalankan
 
 ### Prasyarat
-* Node.js (versi 18 ke atas) atau Python (3.10+)
+* TEST
 * Git
 
 ### Langkah Instalasi
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username/nama-proyek.git](https://github.com/username/nama-proyek.git)
-   cd nama-proyek
+   git clone [https://github.com/Masaka22/Project-Pak-Abdul.git](https://github.com/Masaka22/Project-Pak-Abdul.git)
+   cd Project-Pak-Abdul
 
 ### Web
 1. https://masaka22.github.io/Project-Pak-Abdul/
