@@ -31,4 +31,4 @@ Pak Abdul The Best.
    cd nama-proyek
 
 ### Web
-1. 
+1. https://masaka22.github.io/Project-Pak-Abdul/
